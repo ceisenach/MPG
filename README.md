@@ -12,4 +12,4 @@ This repository contains
 
 
 ### References
- 1. Eisenach, C., Yang, H., Liu, J., and Liu, H. (2018). *Marginal Policy Gradients for Complex Control*. [arxiv:1806.05134](https://arxiv.org/abs/1806.05134)
+[[1] Carson Eisenach, Haichuan Yang, Ji Liu, and Han Liu. "Marginal Policy Gradients: A Unified Family of Estimators for Bounded Action Spaces with Applications". *International Conference on Learning Representations (ICLR'19)*, New Orleans, USA, 2019.](http://princeton.edu/~eisenach/publication/marginal-policy-gradients/)
